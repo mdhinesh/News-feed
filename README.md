@@ -2,7 +2,6 @@
 
 # The Print 📜 news app
 
-![GitHub stars](https://img.shields.io/github/stars/vj-abishek/news-app) ![GitHub contributors](https://img.shields.io/github/contributors/vj-abishek/news-app) ![GitHub issues](https://img.shields.io/github/issues/vj-abishek/news-app) 
 
 The privacy focused news app made for ibm cloud 
 
